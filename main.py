@@ -120,3 +120,6 @@ elif ask == "3":
     df = pd.DataFrame({"titles": ["Title", "Year","Type" , "Language", "Image Link", "Description", "Rating", "Download Link", "Watch Link"], "Data": [movie_title, year, type, lang, movie_img, movie_description, rating, movie_download_link, movie_watch_iframe]})
     df.to_html("data.html".format(movie_title), index=False, header=False)
     webbrowser.open("data.html".format(movie_title))
+
+  
+input("Enter any key to exit: ")
