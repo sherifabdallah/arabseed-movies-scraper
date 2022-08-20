@@ -1,7 +1,7 @@
 # webscrapping movies from https://m.arabseed.sbs
 # github: @sherif-abdallah
 # email: sherif.abdulla@outlook.com
-# repositry: https://github.com/sherif-abdallah/arabseed-webscrapping
+# repositry: https://github.com/sherif-abdallah/arabseed-movies-scraper
 # date: 2022-8-20
 # version: 1.0
 # license: GPLv3
