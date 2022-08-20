@@ -15,9 +15,11 @@ A console application to scrape a valid watching links from <a href="https://m.a
 
 ## How to run
 * Enter the directory where the script is located then type the following to the console
+* Install The Libraries using pip
 ```Bash
 python -m pip install -r requirements.txt
 ```
+* Run The Program
 ```Bash
 python main.py
 ```
