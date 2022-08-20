@@ -18,6 +18,5 @@ A console application to scrape a valid watching links from <a href="https://m.a
 ```Bash
 python main.py
 ```
-* You can also run the .exe file directly without needing to install python, you can dowload it from [here](https://github.com/sherif-abdallah/movies-and-series-scraper/raw/main/Movies%20%26%20Series%20Scraper.exe)
 ## Author
 [Sherif Abdullah](https://github.com/sherif-abdallah)
