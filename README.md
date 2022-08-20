@@ -1,5 +1,6 @@
 # Arabseed web scraper
-A console application to scrape a valid watching links for any movie or series with exact season and episode number, you can also download a whole season with one click.
+A console application to scrape a valid watching links from [m.arabseed.sbs](https://m.arabseed.sbs) for any movie , you cand download or watch any movie with one click
+
 ## Table of Content
 - [arabseed-movies-scraper](#arabseed-webscrapping)
   * [Tools](#tools)
