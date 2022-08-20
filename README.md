@@ -1,5 +1,5 @@
 # Arabseed web scraper
-A console application to scrape a valid watching links from [m.arabseed.sbs](https://m.arabseed.sbs){:target="_blank" rel="noopener"} for any movie , you cand download or watch any movie with one click
+A console application to scrape a valid watching links from [m.arabseed.sbs](https://m.arabseed.sbs) for any movie , you cand download or watch any movie with one click
 
 ## Table of Content
 - [arabseed-movies-scraper](#arabseed-webscrapping)
