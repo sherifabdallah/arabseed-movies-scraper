@@ -8,10 +8,10 @@ A console application to scrape a valid watching links from <a href="https://m.a
   * [Author](#author)
 
 ## Tools
-2. Python
-3. BeautifulSoup library
-4. requests library
-5. webbrowser library
+1. Python
+2. BeautifulSoup library
+3. requests library
+4. webbrowser library
 
 ## How to run
 * Enter the directory where the script is located then type the following to the console
