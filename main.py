@@ -15,8 +15,6 @@ import webbrowser
 domain = "https://m.arabseed.sbs"
 
 
-
-
 inp = input("Enter movie name or url: ")
 if inp.startswith("http://") or inp.startswith("https://"):
     url = inp
