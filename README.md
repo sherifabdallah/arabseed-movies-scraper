@@ -23,5 +23,6 @@ python -m pip install -r requirements.txt
 ```Bash
 python main.py
 ```
+* You can also run the .exe file directly without needing to install python, you can dowload it from [here](https://github.com/sherif-abdallah/arabseed-movies-scraper/releases/download/v0.1.0/Arabseed.Movies.Scrapper.exe)
 ## Author
 [Sherif Abdullah](https://github.com/sherif-abdallah)
